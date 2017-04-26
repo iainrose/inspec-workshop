@@ -1,0 +1,8 @@
+name: inspec-workshop
+title: CIS Centos 6 InSpec Workshop
+maintainer: Iain Rose
+copyright: Iain Rose
+copyright_email: iain.rose@gmail.com
+license: All Rights Reserved
+summary: An InSpec Compliance Profile
+version: 0.1.0
